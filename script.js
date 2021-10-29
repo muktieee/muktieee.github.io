@@ -146,7 +146,7 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Mukti Cahyo Pamungkas pada hari ini Sabtu, 6 November 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 19</b>", " ", "Kepada Isnaini Nurul, semoga kamu panjang umur, dan bahagia selalu. Aamiin., " ", Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Cowoknya Nurul :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Mukti Cahyo Pamungkas pada hari ini Sabtu, 6 November 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 19</b>", " ", "Kepada Isnaini Nurul, semoga kamu panjang umur, dan bahagia selalu. Aamiin.", " ", "Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Cowoknya Nurul :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
