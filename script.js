@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Mukti Cahyo Pamungkas pada hari ini Sabtu, 6 November 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 19</b>", " ", "Kepada Isnaini Nurul, semoga kamu panjang umur, dan bahagia selalu. Aamiin.", " ", "Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Cowoknya Nurul :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya selaku cowoknya Nurul pada hari ini Sabtu, 6 November 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 19</b>", " ", "Kepada Isnaini Nurul Nafi'a, semoga kamu panjang umur, dan bahagia selalu. Aamiin.", " ", "Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Ayanggg!", "Happy Birthday yaa..", " ", "Ciie dah 19 tahun aee, semoga di umur sek saiki ayangg bisa jadi pribadi sik luih baik, luih apik lagi yaa.., luih rajin, luih sholehah, tetep cantikk, ndak sering lek-lek'an, terus tetep manut ro bapak ibuk...ro aku barang yoan :3", "Maaf ya lagi iso ngek'i ngeneki sek, ndaiso sek romantis gitu-gitu. gatau seneng po endak tak kek'i ngeneki :)", "Pisan neh, Selamat Ulang Tahun Ayanggg. Semoga kabeh impian, keinginan, dan harapanmu iso tercapai, Aamiin."],
+  strings: ["Ayanggg!", "Happy Birthday yaa..", " ", "Ciee dah 19 tahun aee, semoga di umur sek saiki ayangg bisa jadi pribadi sik luih baik neh, luih rajin, luih sholehah, tetep cantikk, ndak sering lek-lek'an, tetep manut ro bapak ibuk...ro aku barang yoan :3", "Maaf ya lagi iso ngek'i ngeneki sek, ndaiso sek romantis gitu-gitu. gatau seneng po endak tak kek'i ngeneki :)", "Lovee Uuuuu Ayanggg. Semoga kabeh impian, keinginan, dan harapanmu iso tercapai, Aamiin."],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -161,7 +161,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["Makasii dah liatt."],
   startDelay: 2000,
   speed: 150,
   loop: false,
