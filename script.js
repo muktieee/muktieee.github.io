@@ -162,7 +162,7 @@ new TypeIt("#teks2", {
 
 new TypeIt("#trims", {
   strings: ["Makasii dah liatt."],
-  startDelay: 2000,
+  startDelay: 1850,
   speed: 175,
   loop: false,
   waitUntilVisible: true,
